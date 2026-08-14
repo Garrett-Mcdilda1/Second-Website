@@ -17,6 +17,27 @@ header p {
   color: #D3D3D3;
 }
 
+#about {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem
+}
+
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.about-text {
+  flex: 1;
+}
+
+
+
 h1 {
   font-size: 2.5rem;
   text-align: center
