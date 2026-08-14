@@ -1,5 +1,7 @@
 body {
-  background-color: #F5F5F2;}
+  background-color: #0021A5;
+  opacity: 0.75;
+}
 
 header {
   background-color: #0021A5;
@@ -16,7 +18,7 @@ header h1 {
 header p {
   font-size: 1.2rem;
   opacity: 0.9;
-  color: #D3D3D3;
+  color: #FA4616;
 }
 
 #about {
