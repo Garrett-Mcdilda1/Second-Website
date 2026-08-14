@@ -4,7 +4,7 @@ body {
 }
 
 header {
-  background-color: #0021A5;
+  background-color: #FA4616;
   text-align: Center;
   padding: 2rem, 1.5rem;
 }
@@ -18,7 +18,7 @@ header h1 {
 header p {
   font-size: 1.2rem;
   opacity: 0.9;
-  color: #FA4616;
+  color: #FFFFFF;
 }
 
 #about {
